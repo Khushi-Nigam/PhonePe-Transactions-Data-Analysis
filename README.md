@@ -34,7 +34,8 @@ Built using **Power BI**, this dashboard visualizes transaction trends from 2018
 
 ## 📸 Preview
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/a4c27e51-4bee-4e6c-9be6-ba92679484b3)
+![Dashboard Screenshot](![image](![Screenshot 2025-06-15 195025](https://github.com/user-attachments/assets/ac1e2010-8f0b-4867-b8a2-84bf6ed5a10c)
+)
 )
 
 ---
